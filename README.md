@@ -30,7 +30,7 @@ To configure LeetSync, follow these steps:
 1. Click on the extension icon in your Chrome toolbar.
 2. In the popup window, Give Access via Github.
 3. Login Via LeetCode (Optional and might be automatically skipped if already logged in)
-4. Select the repository you want to sync your submissions to. Make sure that the link is of the form `https://github.com/my-username/my-repository-name`. **Do not append `.git` after the repository name.**
+4. Paste the repository URL you want to sync your submissions to. Use the base repo URL, e.g. `https://github.com/my-username/my-repository-name` (no trailing `/`, no extra path like `/tree/...`, and **do not** append `.git`).
 5. Start solving some problems
 
 ## Usage
